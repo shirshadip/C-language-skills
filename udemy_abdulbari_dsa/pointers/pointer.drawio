@@ -1,0 +1,19 @@
+<mxfile host="65bd71144e">
+    <diagram id="dLABTg77rVjOlQlMimQB" name="Page-1">
+        <mxGraphModel dx="1021" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="&lt;font style=&quot;font-size: 17px;&quot;&gt;we need pointer to access heap&amp;nbsp;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="45" y="68" width="270" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="pointers are written to access the resourses from outside the program" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="315" y="130" width="390" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="1. accessing heap&lt;div&gt;2.accessing resourses&lt;/div&gt;&lt;div&gt;3.parametre passing&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+                    <mxGeometry x="410" y="160" width="140" height="70" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
